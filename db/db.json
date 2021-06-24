@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Chores","text":"Dishes","id":4583},{"title":"Shopping List","text":"Bananas\nOranges\nSpinach","id":7540}]
